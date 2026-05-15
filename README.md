@@ -3,9 +3,9 @@ Performed footprinting, reconnaissance, DNS enumeration, and network scanning us
 
 # * WHOIS Lookup
 Objective:-
-  - WHOIS is used to gather registration information about a domain such as owner details, registrar, DNS servers, and creation/expiry dates.
+ WHOIS is used to gather registration information about a domain such as owner details, registrar, DNS servers, and creation/expiry dates.
 Command:-
-  - whois google.com
+ whois google.com
 Explanation:-
   - whois → Queries WHOIS databases
   - example.com → Target domain
