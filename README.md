@@ -1,2 +1,2 @@
 # Footprinting-Recon-Scanning
-Footprinting is the process of collecting information about a target system, organization, or network before active testing.
+Performed footprinting, reconnaissance, DNS enumeration, and network scanning using WHOIS, theHarvester, recon-ng, and Nmap.
